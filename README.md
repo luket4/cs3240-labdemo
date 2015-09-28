@@ -1,2 +1,2 @@
 # cs3240-labdemo
-Demo for CS3240 - in lab
+Demo for CS3240
