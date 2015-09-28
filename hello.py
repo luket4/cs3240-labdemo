@@ -1,4 +1,5 @@
 __author__ = 'lat9wj'
+def greeting(msg):
+    print(msg)
 
-print ("Hello world")
-
+greeting("hello")
